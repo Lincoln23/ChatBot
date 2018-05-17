@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/third-party/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/aws-java-sdk-1.11.328/aws-java-sdk-1.11.328/third-party/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="com.google.code.gson:gson:2.8.4" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/java-json.jar (1)/java-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/java-json.jar (1)/java-json.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="com.squareup.okhttp3:benchmarks:3.7.0" level="project" />
+  </component>
+</module>
